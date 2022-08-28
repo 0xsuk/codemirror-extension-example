@@ -24,3 +24,8 @@ npm run build
 
 It's going to build src/index.ts and generate dist/index.js and dist/index.d.ts
 
+### TODO
+
+- [ ] Hover Definition
+- [ ] Jump Definition
+
